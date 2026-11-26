@@ -1,16 +1,39 @@
-## Hi there 👋
 
-<!--
-**SIVAPRASATH-18/SIVAPRASATH-18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm SIVAPRASATH B
 
-Here are some ideas to get you started:
+### 🚀 B.Tech Artificial Intelligence & Data Science Student
+**AI Enthusiast | Machine Learning Explorer | Aspiring AI Engineer**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌟 About Me
+- 🎓 Pursuing B.Tech AI & DS at Saveetha Engineering College.
+- 💡 Passionate about Artificial Intelligence and Machine Learning.
+- 💻 Interested in Software Development and Web Development.
+- 🌱 Continuously learning new technologies and improving my skills.
+- 🚀 Excited to turn innovative ideas into real-world applications.
+- 🎯 My goal is to become a skilled AI Engineer.
+
+### 💻 Technical Skills
+- Python
+- C
+- C++
+- HTML
+- Machine Learning (Learning)
+
+### 📚 Currently Exploring
+- Artificial Intelligence
+- Machine Learning
+- Web Development
+- Problem Solving
+
+### 🔗 Connect With Me
+- 💼 LinkedIn: https://linkedin.com/in/sivaprasath18
+- 🐙 GitHub: https://github.com/SIVAPRASATH-18
+
+---
+
+### 💬 My Motto
+"Dream Big, Learn Continuously, Build Innovatively! 🚀"
+
+⭐ Thanks for visiting my profile!
