@@ -79,6 +79,13 @@ I'm an **Artificial Intelligence & Data Science** student who enjoys learning by
 
 ---
 
+## 📫 Contact Me
+
+- 🐙 **GitHub:** [SIVAPRASATH-18](https://github.com/SIVAPRASATH-18)
+- 💼 **LinkedIn:** [linkedin.com/in/sivaprasath18](https://linkedin.com/in/sivaprasath18)
+
+---
+
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" width="32" alt=""/> My Motto
 
 <p align="center">
