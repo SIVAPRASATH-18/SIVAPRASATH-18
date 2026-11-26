@@ -1,12 +1,14 @@
 <!-- ===================== HEADER ===================== -->
+<h1 align="center">👋 SIVAPRASATH B</h1>
+<p align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="70" alt=""/> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="70" alt=""/> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.gif" width="70" alt=""/></p>
+
+<h3 align="center">B.Tech AI &amp; Data Science Student | Aspiring AI Engineer</h3>
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Sivaprasath+B;AI+%26+Data+Science+Student+%F0%9F%8E%93;Machine+Learning+Explorer+%F0%9F%A4%96;Learning.+Building.+Innovating.+%F0%9F%9A%80" alt="Typing animation introducing Sivaprasath B"/>
   </a>
 </p>
-
-<h3 align="center">B.Tech AI &amp; Data Science Student | Aspiring AI Engineer</h3>
-
 
 <p align="center">
   <a href="https://linkedin.com/in/sivaprasath18"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -16,31 +18,44 @@
 
 ---
 
-## 🌟 About Me
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" width="32" alt=""/> About Me
 
-```python
-class Sivaprasath:
-    education = "B.Tech, Artificial Intelligence & Data Science"
-    college   = "Saveetha Engineering College"
-    interests = ["Artificial Intelligence", "Machine Learning",
-                 "Software Development", "Web Development"]
-    goal      = "Become a skilled AI Engineer 🎯"
-```
+I'm an **Artificial Intelligence & Data Science** student who enjoys learning by building.
 
-- 🌱 Continuously learning new technologies and sharpening my skills
-- 🚀 Excited to turn innovative ideas into real-world applications
+- 🎓 **Education:** B.Tech in AI & Data Science
+- 🏫 **College:** Saveetha Engineering College
+- 💡 **Interests:** Artificial Intelligence, Machine Learning, Software and Web Development
+- 🌱 **Now:** Learning new technologies and sharpening my skills
+- 🎯 **Goal:** Become a skilled AI Engineer
 
 ---
 
-## 🛠️ Tech Stack
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" width="32" alt=""/> Technical Skills
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,c,cpp,html,git,github&theme=dark" alt="Python, C, C++, HTML, Git, GitHub"/>
+**Programming Languages**
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+</p>
+
+**Web Development**
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+</p>
+
+**Tools**
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
 ---
 
-## 📚 Currently Exploring
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" width="32" alt=""/> Currently Exploring
 
 <div align="center">
 
@@ -55,7 +70,7 @@ class Sivaprasath:
 
 ---
 
-## 📊 GitHub Analytics
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="32" alt=""/> GitHub Analytics
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=SIVAPRASATH-18&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
@@ -67,8 +82,10 @@ class Sivaprasath:
 
 ---
 
-## 💬 My Motto
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" width="32" alt=""/> My Motto
 
-<h3 align="center"><i>"Dream Big, Learn Continuously, Build Innovatively!"</i> 🚀</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Dream+Big.;Learn+Continuously.;Build+Innovatively!" alt="Dream Big, Learn Continuously, Build Innovatively!"/>
+</p>
 
 <p align="center">⭐ <b>Thanks for visiting my profile!</b> ⭐</p>
