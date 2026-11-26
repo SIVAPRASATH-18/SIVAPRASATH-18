@@ -1,6 +1,4 @@
 <!-- ===================== HEADER ===================== -->
-<h3 align="center">B.Tech AI &amp; Data Science Student | Aspiring AI Engineer</h3>
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Sivaprasath+B;AI+%26+Data+Science+Student+%F0%9F%8E%93;Machine+Learning+Explorer+%F0%9F%A4%96;Learning.+Building.+Innovating.+%F0%9F%9A%80" alt="Typing animation introducing Sivaprasath B"/>
