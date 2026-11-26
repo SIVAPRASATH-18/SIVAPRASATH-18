@@ -1,6 +1,8 @@
 <!-- ===================== HEADER ===================== -->
+<h1 align="center">🚗〰️〰️ SIVAPRASATH B</h1>
+
 <p align="center">
-  <img src="./name-animation.svg" width="100%" alt="Sivaprasath B - AI and Data Science Student, Aspiring AI Engineer"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&center=true&vCenter=true&width=600&color=00D4FF&size=22&pause=1000&lines=AI+%26+Data+Science+Student;Machine+Learning+Explorer;Aspiring+AI+Engineer;Learning.+Building.+Innovating." alt="AI and Data Science Student, Aspiring AI Engineer"/>
 </p>
 
 <p align="center">
