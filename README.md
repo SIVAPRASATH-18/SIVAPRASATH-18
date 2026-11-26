@@ -1,17 +1,6 @@
 <!-- ===================== HEADER ===================== -->
-
 <p align="center">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" width="200" alt="Animated AI robot"/>
-</p>
-
-
-<h3 align="center">B.Tech AI &amp; Data Science Student | Aspiring AI Engineer</h3>
-
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Sivaprasath+B;AI+%26+Data+Science+Student+%F0%9F%8E%93;Machine+Learning+Explorer+%F0%9F%A4%96;Learning.+Building.+Innovating.+%F0%9F%9A%80" alt="Typing animation introducing Sivaprasath B"/>
-  </a>
+  <img src="./name-animation.svg" width="100%" alt="Sivaprasath B - AI and Data Science Student, Aspiring AI Engineer"/>
 </p>
 
 <p align="center">
@@ -22,7 +11,7 @@
 
 ---
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" width="32" alt=""/> About Me
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="32" alt=""/> About Me
 
 I'm an **Artificial Intelligence & Data Science** student who enjoys learning by building.
 
@@ -65,7 +54,7 @@ I'm an **Artificial Intelligence & Data Science** student who enjoys learning by
 
 | 🔭 Area | 📈 Focus |
 |:--|:--|
-| 🤖 **Artificial Intelligence** | Core concepts and real-world use cases |
+| 💡 **Artificial Intelligence** | Core concepts and real-world use cases |
 | 🧠 **Machine Learning** | Algorithms, model training and evaluation |
 | 🌐 **Web Development** | Clean, responsive websites |
 | 🧩 **Problem Solving** | Data structures and algorithms in Python, C and C++ |
