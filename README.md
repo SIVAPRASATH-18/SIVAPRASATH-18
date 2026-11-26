@@ -1,7 +1,6 @@
 <!-- ===================== HEADER ===================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=SIVAPRASATH%20B&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20AI%20%26%20Data%20Science%20Student%20%7C%20Aspiring%20AI%20Engineer&descSize=18&descAlignY=60" width="100%" alt="Sivaprasath B header"/>
-</p>
+<h1 align="center">👋 SIVAPRASATH B</h1>
+<h3 align="center">B.Tech AI &amp; Data Science Student | Aspiring AI Engineer</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -59,16 +58,11 @@ class Sivaprasath:
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SIVAPRASATH-18&theme=tokyonight" width="100%" alt="Contribution overview"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SIVAPRASATH-18&theme=tokyonight" width="49%" alt="GitHub stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SIVAPRASATH-18&theme=tokyonight" width="49%" alt="Top languages"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=SIVAPRASATH-18&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SIVAPRASATH-18&theme=tokyonight" width="420" alt="Top languages"/>
 </p>
 
 ---
@@ -78,7 +72,3 @@ class Sivaprasath:
 <h3 align="center"><i>"Dream Big, Learn Continuously, Build Innovatively!"</i> 🚀</h3>
 
 <p align="center">⭐ <b>Thanks for visiting my profile!</b> ⭐</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="Footer wave"/>
-</p>
