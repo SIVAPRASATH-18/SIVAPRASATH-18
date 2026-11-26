@@ -1,114 +1,84 @@
 <!-- ===================== HEADER ===================== -->
-
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=SIVAPRASATH%20B&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20AI%20%26%20Data%20Science%20Student%20%7C%20Aspiring%20AI%20Engineer&descSize=18&descAlignY=60" width="100%" alt="Sivaprasath B Header"/>
-</p>
-
-<h2 align="center">👋 Hi, I'm Sivaprasath B</h2>
-
-<p align="center">
-  🚀 AI Enthusiast | 💻 Developer | 🎓 AI & DS Student
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=SIVAPRASATH%20B&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20AI%20%26%20Data%20Science%20Student%20%7C%20Aspiring%20AI%20Engineer&descSize=18&descAlignY=60" width="100%" alt="Sivaprasath B header"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SIVAPRASATH-18&label=Profile%20Views&color=blue&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/SIVAPRASATH-18?label=Followers&style=for-the-badge&color=blue" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Sivaprasath+B;AI+%26+Data+Science+Student+%F0%9F%8E%93;Machine+Learning+Explorer+%F0%9F%A4%96;Learning.+Building.+Innovating.+%F0%9F%9A%80" alt="Typing animation introducing Sivaprasath B"/>
+  </a>
 </p>
 
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Sivaprasath+B;B.Tech+AI+%26+Data+Science+Student;Machine+Learning+Explorer+%F0%9F%A4%96;Dream+Big.+Learn+Continuously.+Build+Innovatively+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=SIVAPRASATH-18&label=Profile%20Views&color=0e75b6&style=for-the-badge)
-[![GitHub followers](https://img.shields.io/github/followers/SIVAPRASATH-18?style=for-the-badge&logo=github&color=181717)](https://github.com/SIVAPRASATH-18)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sivaprasath18)
-
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/sivaprasath18"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/SIVAPRASATH-18"><img src="https://img.shields.io/github/followers/SIVAPRASATH-18?label=Followers&style=for-the-badge&logo=github&color=181717" alt="GitHub followers"/></a>
+  <img src="https://komarev.com/ghpvc/?username=SIVAPRASATH-18&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
+</p>
 
 ---
 
 ## 🌟 About Me
 
-<img align="right" width="320" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" />
+```python
+class Sivaprasath:
+    education = "B.Tech, Artificial Intelligence & Data Science"
+    college   = "Saveetha Engineering College"
+    interests = ["Artificial Intelligence", "Machine Learning",
+                 "Software Development", "Web Development"]
+    goal      = "Become a skilled AI Engineer 🎯"
+```
 
-- 🎓 Pursuing **B.Tech in Artificial Intelligence & Data Science** at **Saveetha Engineering College**
-- 💡 Passionate about **Artificial Intelligence** and **Machine Learning**
-- 💻 Interested in **Software Development** and **Web Development**
 - 🌱 Continuously learning new technologies and sharpening my skills
 - 🚀 Excited to turn innovative ideas into real-world applications
-- 🎯 **Goal:** Become a skilled **AI Engineer**
-
-<br/>
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,c,cpp,html,git,github&theme=dark" alt="Python, C, C++, HTML, Git, GitHub"/>
+</p>
 
 ---
 
 ## 📚 Currently Exploring
 
+<div align="center">
+
 | 🔭 Area | 📈 Focus |
 |:--|:--|
-| 🤖 **Artificial Intelligence** | Core concepts & real-world use cases |
-| 🧠 **Machine Learning** | Algorithms, model training & evaluation |
-| 🌐 **Web Development** | Building clean, responsive websites |
-| 🧩 **Problem Solving** | Data structures & algorithms in Python / C / C++ |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=SIVAPRASATH-18&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIVAPRASATH-18&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SIVAPRASATH-18&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+| 🤖 **Artificial Intelligence** | Core concepts and real-world use cases |
+| 🧠 **Machine Learning** | Algorithms, model training and evaluation |
+| 🌐 **Web Development** | Clean, responsive websites |
+| 🧩 **Problem Solving** | Data structures and algorithms in Python, C and C++ |
 
 </div>
 
-
-
 ---
 
-## 🔗 Connect With Me
+## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SIVAPRASATH-18&theme=tokyonight" width="100%" alt="Contribution overview"/>
+</p>
 
-<a href="https://linkedin.com/in/sivaprasath18"><img src="https://img.shields.io/badge/LinkedIn-sivaprasath18-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/SIVAPRASATH-18"><img src="https://img.shields.io/badge/GitHub-SIVAPRASATH--18-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SIVAPRASATH-18&theme=tokyonight" width="49%" alt="GitHub stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SIVAPRASATH-18&theme=tokyonight" width="49%" alt="Top languages"/>
+</p>
 
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SIVAPRASATH-18&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+</p>
 
 ---
 
 ## 💬 My Motto
 
-<div align="center">
+<h3 align="center"><i>"Dream Big, Learn Continuously, Build Innovatively!"</i> 🚀</h3>
 
-### *"Dream Big, Learn Continuously, Build Innovatively!"* 🚀
+<p align="center">⭐ <b>Thanks for visiting my profile!</b> ⭐</p>
 
-⭐ **Thanks for visiting my profile!** ⭐
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="footer"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="Footer wave"/>
+</p>
