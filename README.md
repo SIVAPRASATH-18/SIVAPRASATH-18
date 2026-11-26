@@ -1,7 +1,21 @@
 <!-- ===================== HEADER ===================== -->
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Sivaprasath%20B&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Student%20%7C%20Aspiring%20AI%20Engineer&descSize=18&descAlignY=60" width="100%" alt="header"/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=SIVAPRASATH%20B&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20AI%20%26%20Data%20Science%20Student%20%7C%20Aspiring%20AI%20Engineer&descSize=18&descAlignY=60" width="100%" alt="Sivaprasath B Header"/>
+</p>
+
+<h2 align="center">👋 Hi, I'm Sivaprasath B</h2>
+
+<p align="center">
+  🚀 AI Enthusiast | 💻 Developer | 🎓 AI & DS Student
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SIVAPRASATH-18&label=Profile%20Views&color=blue&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/SIVAPRASATH-18?label=Followers&style=for-the-badge&color=blue" />
+</p>
+
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Sivaprasath+B;B.Tech+AI+%26+Data+Science+Student;Machine+Learning+Explorer+%F0%9F%A4%96;Dream+Big.+Learn+Continuously.+Build+Innovatively+%F0%9F%9A%80" alt="Typing SVG" />
